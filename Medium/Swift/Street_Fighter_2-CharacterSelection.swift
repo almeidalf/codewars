@@ -115,8 +115,6 @@ let fig = [
 ]
 
 streetFighterSelection(fighters: fig, position: (0,0), moves: [.up, .up, .up, .up])
-                                                            //"Ryu", "Vega", "Ryu", "Vega", "Balrog"
-
 
 
 
